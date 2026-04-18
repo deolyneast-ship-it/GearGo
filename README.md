@@ -44,7 +44,7 @@ Plaintext
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/geargo.git
+git clone[ https://github.com/your-username/geargo.git](https://github.com/deolyneast-ship-it/GearGo)
 Install dependencies:
 
 Bash
