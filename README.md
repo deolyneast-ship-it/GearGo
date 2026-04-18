@@ -53,7 +53,7 @@ GearGo utilizes a **high-fidelity dark mode** interface. The "Cyber-Lavender" ae
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/geargo.git](https://github.com/deolyneast-ship-it/GearGo)
+    git clone (https://github.com/deolyneast-ship-it/GearGo)
     ```
 2.  **Install dependencies:**
     ```bash
