@@ -1,6 +1,8 @@
+import React from 'react';
+
 export const metadata = {
   title: 'GearGo | On-Demand Car Parts',
-  description: 'Fast delivery for your automotive needs',
+  description: 'Seamlessly delivering your automotive needs',
 };
 
 export default function RootLayout({
@@ -10,7 +12,13 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body style={{ backgroundColor: '#000', color: '#E0B0FF', margin: 0 }}>
+      <body style={{ 
+        background: 'linear-gradient(135deg, #000000 0%, #0a0a0f 100%)', 
+        color: '#E0B0FF', // Lilac Default
+        margin: 0, 
+        minHeight: '100vh',
+        fontFamily: 'system-ui, -apple-system, sans-serif' 
+      }}>
         {children}
       </body>
     </html>
