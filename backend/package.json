@@ -1,0 +1,15 @@
+{
+  "name": "geargo-backend",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "test": "echo 'No backend tests yet'"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "@types/node": "latest",
+    "tsx": "latest"
+  }
+}
